@@ -10,3 +10,6 @@ Provide deep and meaningful code review with best practices solutions.
 
 Look for architecture, performance, security, scalability and any other issues in this project.
  Mark as many of them as you can find
+
+
+Some small test
